@@ -7,4 +7,5 @@ Todos
 2.) activate virtual environment
 3.) pip install all the requirements
 4.) add
+5.) done working in the faculty
 
